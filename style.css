@@ -124,7 +124,7 @@ header {
 /* Strat dahsboard */
 .dahsboard {
   width: 300px;
-  height: 100vh;
+  height: 140vh;
   background: var(--first-color);
   padding: 0 20px;
   display: flex;
